@@ -27,5 +27,7 @@ Welcome to my space, let me tell you a little about myself.
 </div>
 <br />
 
+![LionyHM](https://komarev.com/ghpvc/?username=LionyHM)
+
 ![Liony GitHub stats](https://github-readme-stats.vercel.app/api?username=LionyHM&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
