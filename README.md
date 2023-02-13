@@ -3,16 +3,21 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lionyhenrique/)
 
 
-### Hi there 👋
+# Hi there 👋
+
 Welcome to my space, let me tell you a little about myself.
 
+## Overview
 - 👨‍🎓 Graduate in Analysis and Systems Development at Universidade Estacio de Sá.
-- 🌱 I’m currently learning Typescript.
-- 👯 I’m looking to collaborate on Javascript, NodeJS, ReactJS, NextJS.
-- 💬 Ask me about Development with Javascript.
-- 📫 How to reach me: lionyhenrique@gmail.com
+- 🌱 Currently learning Typescript.
+- 👯 Interested in collaborating on Javascript, NodeJS, ReactJS, and NextJS projects.
+- 💬 Experienced in Development with Javascript.
+
+## Contact
+- 📫 Email: lionyhenrique@gmail.com
 - 😄 Pronouns: He/Him
-<br/>
+
+## Technologies
 <p><strong>Technologies i use in my daily life:</strong></p>
 
 <div style="display: inline_block"><br />
